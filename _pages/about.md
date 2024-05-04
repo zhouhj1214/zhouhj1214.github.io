@@ -19,12 +19,8 @@ redirect_from:
 
 #  About
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes sampling and submodular optimization. 
 
-
-#  News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 #  Publications 
 
@@ -34,6 +30,7 @@ Lingxiao Huang, Yuyi Wang, Chunxue Yang, **Huanjian Zhou**
 
 
 #  Honors and Awards
+- *2021-2026* World-leading Innovative Graduate Study Program in University of Tokyo.
+- *2023-2024* AIセンター融合研究促進費, 2,000,000yen.
 
 
-#  Internships
