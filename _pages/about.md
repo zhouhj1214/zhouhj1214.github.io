@@ -28,23 +28,23 @@ Research Interests: the complexity of sampling, submodular optimization.
 
 #  Publications 
 
-[The Adaptive Complexity of Finding a Stationary Point](https://www.arxiv.org/abs/2505.09045) **COLT** 2025.
+[The Adaptive Complexity of Finding a Stationary Point](https://www.arxiv.org/abs/2505.09045), **COLT** 2025.
 
 **Huanjian Zhou**, Andi Han, Akiko Takeda, Masashi Sugiyama
 
-[Parallel Simulation for Sampling under Isoperimetry and Score-based Diffusion Models](https://arxiv.org/abs/2412.07435) **ICML** 2025, <font color='red'>Spotlight (Top 2.6%)</font>.
+[Parallel Simulation for Sampling under Isoperimetry and Score-based Diffusion Models](https://arxiv.org/abs/2412.07435), **ICML** 2025, <font color='red'>Spotlight (Top 2.6%)</font>.
 
 **Huanjian Zhou**, Masashi Sugiyama
 
-[The adaptive complexity of parallelized log-concave sampling](https://openreview.net/forum?id=EeqlkPpaV8) **ICLR** 2025.
+[The adaptive complexity of parallelized log-concave sampling](https://openreview.net/forum?id=EeqlkPpaV8), **ICLR** 2025.
 
 **Huanjian Zhou**, Baoxiang Wang, Masashi Sugiyama
 
-[Improved Approximation Algorithms for k-Submodular Maximization via Multilinear Extension](https://openreview.net/forum?id=EPHsIa0Ytg) **ICLR** 2025,  <font color='red'>Spotlight (Top 5.1%)</font>.
+[Improved Approximation Algorithms for k-Submodular Maximization via Multilinear Extension](https://openreview.net/forum?id=EPHsIa0Ytg), **ICLR** 2025,  <font color='red'>Spotlight (Top 5.1%)</font>.
 
 **Huanjian Zhou**, Lingxiao Huang, Baoxiang Wang
 
-[Efficient Submodular Optimization under Noise: Local Search is Robust](https://proceedings.neurips.cc/paper_files/paper/2022/hash/a774503daed55eb53c634847ae071ec7-Abstract-Conference.html) (alpha-beta order) **NeurIPS** 2022.
+[Efficient Submodular Optimization under Noise: Local Search is Robust](https://proceedings.neurips.cc/paper_files/paper/2022/hash/a774503daed55eb53c634847ae071ec7-Abstract-Conference.html) ($\alpha-\beta$ order), **NeurIPS** 2022.
 
 Lingxiao Huang, Yuyi Wang, Chunxue Yang, **Huanjian Zhou**
 
