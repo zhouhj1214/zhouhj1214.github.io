@@ -32,7 +32,7 @@ Research Interests: the complexity of sampling, submodular optimization
 
 **Huanjian Zhou**, Andi Han, Akiko Takeda, Masashi Sugiyama
 
-[Parallel Simulation for Sampling under Isoperimetry and Score-based Diffusion Models](https://arxiv.org/abs/2412.07435) **ICML** 2025, Spotlight (Top 2.6%).
+[Parallel Simulation for Sampling under Isoperimetry and Score-based Diffusion Models](https://arxiv.org/abs/2412.07435) **ICML** 2025, <font color='red'>**Spotlight (Top 2.6%)**</font>.
 
 **Huanjian Zhou**, Masashi Sugiyama
 
@@ -40,7 +40,7 @@ Research Interests: the complexity of sampling, submodular optimization
 
 **Huanjian Zhou**, Baoxiang Wang, Masashi Sugiyama
 
-[Improved Approximation Algorithms for k-Submodular Maximization via Multilinear Extension](https://openreview.net/forum?id=EPHsIa0Ytg) **ICLR** 2025, Spotlight (Top 5.1%).
+[Improved Approximation Algorithms for k-Submodular Maximization via Multilinear Extension](https://openreview.net/forum?id=EPHsIa0Ytg) **ICLR** 2025,  <font color='red'>**Spotlight (Top 5.1%)**</font>.
 
 **Huanjian Zhou**, Lingxiao Huang, Baoxiang Wang
 
