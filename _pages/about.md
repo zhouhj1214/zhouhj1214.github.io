@@ -46,7 +46,7 @@ Research Interests: the complexity of sampling, submodular optimization.
 
 [Efficient Submodular Optimization under Noise: Local Search is Robust](https://proceedings.neurips.cc/paper_files/paper/2022/hash/a774503daed55eb53c634847ae071ec7-Abstract-Conference.html) **NeurIPS** 2022.
 
-Lingxiao Huang, Yuyi Wang, Chunxue Yang, **Huanjian Zhou**, ($\alpha$-$\beta$ order)
+Lingxiao Huang, Yuyi Wang, Chunxue Yang, **Huanjian Zhou**, ($\alpha$- $\beta$ order)
 
 
 #  Grants and Fellowships
