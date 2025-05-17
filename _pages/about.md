@@ -52,8 +52,8 @@ Lingxiao Huang, Yuyi Wang, Chunxue Yang, **Huanjian Zhou**, ($\alpha$ - $\beta$ 
 #  Grants and Fellowships
 
 - *2021-2026* World-leading Innovative Graduate Study Program in University of Tokyo.
-- *2023-2024* AIセンター融合研究促進費, 2,000,000yen.
-- *2023-2024* AIセンター融合研究促進費, 1,100,000yen.
+- *2023-2024* AIセンター融合研究促進費, 2,000,000jpy.
+- *2023-2024* AIセンター融合研究促進費, 1,100,000jpy.
 
 #  Service
 Conference reviewer: ICML(2025), NeurIPS(2024, 2025), ICLR(2025), ESA (2025).
