@@ -28,17 +28,35 @@ Research Interests: the complexity of sampling, submodular optimization
 
 #  Publications 
 
-[Efficient Submodular Optimization under Noise: Local Search is Robust](https://proceedings.neurips.cc/paper_files/paper/2022/hash/a774503daed55eb53c634847ae071ec7-Abstract-Conference.html) (alpha-beta order)
+[The Adaptive Complexity of Finding a Stationary Point](https://www.arxiv.org/abs/2505.09045) **COLT** 2025.
+
+**Huanjian Zhou**, Andi Han, Akiko Takeda, Masashi Sugiyama
+
+[Parallel Simulation for Sampling under Isoperimetry and Score-based Diffusion Models](https://arxiv.org/abs/2412.07435) **ICML** 2025, Spotlight (Top 2.6%).
+
+**Huanjian Zhou**, Masashi Sugiyama
+
+[The adaptive complexity of parallelized log-concave sampling](https://openreview.net/forum?id=EeqlkPpaV8) **ICLR** 2025.
+
+**Huanjian Zhou**, Baoxiang Wang, Masashi Sugiyama
+
+[Improved Approximation Algorithms for k-Submodular Maximization via Multilinear Extension](https://openreview.net/forum?id=EPHsIa0Ytg) **ICLR** 2025, Spotlight (Top 5.1%).
+
+**Huanjian Zhou**, Lingxiao Huang, Baoxiang Wang
+
+[Efficient Submodular Optimization under Noise: Local Search is Robust](https://proceedings.neurips.cc/paper_files/paper/2022/hash/a774503daed55eb53c634847ae071ec7-Abstract-Conference.html) (alpha-beta order) **NeurIPS** 2022.
 
 Lingxiao Huang, Yuyi Wang, Chunxue Yang, **Huanjian Zhou**
 
-[On Optimal Approximations for k-Submodular Maximization via Multilinear Extension](https://arxiv.org/abs/2107.07103) (alpha-beta order)
-
-Lingxiao Huang, Baoxiang Wang, **Huanjian Zhou**
 
 #  Grants and Fellowships
 
 - *2021-2026* World-leading Innovative Graduate Study Program in University of Tokyo.
 - *2023-2024* AIセンター融合研究促進費, 2,000,000yen.
+- *2023-2024* AIセンター融合研究促進費, 2,000,000yen.
+
+#  Service
+Conference reviewer: ICML(2025), NeurIPS(2024, 2025), ICLR(2025), ESA (2025).
+
 
 
