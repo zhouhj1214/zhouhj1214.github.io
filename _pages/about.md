@@ -19,9 +19,7 @@ redirect_from:
 
 #  Welcome!
 
-I am a final year PhD student at UTokyo where I am very fortunate to be advised by [Masashi Sugiyama](http://www.ms.k.u-tokyo.ac.jp/sugi/).
-
-I am also a Research Part-time Worker at [RIKEN Center for Advanced Intelligence Project](https://www.riken.jp/en/research/labs/aip/index.html).
+I am a final year PhD student at UTokyo where I am very fortunate to be advised by [Masashi Sugiyama](http://www.ms.k.u-tokyo.ac.jp/sugi/). I am also a Research Part-time Worker at [RIKEN Center for Advanced Intelligence Project](https://www.riken.jp/en/research/labs/aip/index.html).
 
 I got my B.S. from Zhejiang University with major in Statistics.
 
