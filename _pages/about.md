@@ -48,6 +48,10 @@ Research Interests: the complexity of sampling, submodular optimization.
 
 Lingxiao Huang, Yuyi Wang, Chunxue Yang, **Huanjian Zhou**, (alphabetical order)
 
+# News
+
+✈️ Visiting Prof. [Sinho Chewi](https://chewisinho.github.io/) at Yale University during May and June 2025.
+
 
 #  Grants and Fellowships
 
