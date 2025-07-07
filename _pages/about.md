@@ -28,7 +28,7 @@ Research Interests: the complexity of sampling, submodular optimization.
 
 #  Publications 
 
-[The Adaptive Complexity of Finding a Stationary Point](https://www.arxiv.org/abs/2505.09045), **COLT** 2025. [Slides](https://drive.google.com/file/d/1Q7B1zQCiuCF6SmBI4Li-WJAJfKg82_XJ/view?usp=sharing)
+[The Adaptive Complexity of Finding a Stationary Point](https://www.arxiv.org/abs/2505.09045), **COLT** 2025. [Slides]()
 
 **Huanjian Zhou**, Andi Han, Akiko Takeda, Masashi Sugiyama
 
