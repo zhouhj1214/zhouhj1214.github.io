@@ -59,8 +59,14 @@ Lingxiao Huang, Yuyi Wang, Chunxue Yang, **Huanjian Zhou**, (alphabetical order)
 - *2023-2024* AIセンター融合研究促進費, 2,000,000jpy.
 - *2024-2025* AIセンター融合研究促進費, 1,100,000jpy.
 
+# Invited talks
+
+2025.7.7 John Hopcroft Center Lecture Series at SJTU
+
+2025.9.3 第25回情報科学技術フォーラム
+
 #  Service
-Conference reviewer: ICML(2025), NeurIPS(2024, 2025), ICLR(2025), ESA (2025).
+Conference reviewer: ICML(2025), NeurIPS(2024, 2025), ICLR(2025), ESA (2025), AISTATS (2025).
 
 
 
