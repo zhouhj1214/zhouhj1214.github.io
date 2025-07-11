@@ -32,7 +32,7 @@ Research Interests: the complexity of sampling, submodular optimization.
 
 **Huanjian Zhou**, Andi Han, Akiko Takeda, Masashi Sugiyama
 
-[Parallel Simulation for Sampling under Isoperimetry and Score-based Diffusion Models](https://arxiv.org/abs/2412.07435), **ICML** 2025, <font color='red'>Spotlight (Top 2.6%)</font>.
+[Parallel Simulation for Log-concave Sampling and Score-based Diffusion Models](https://openreview.net/forum?id=qtuxDy2qEB&noteId=Q3HrXoYt2u), **ICML** 2025, <font color='red'>Spotlight (Top 2.6%)</font>.
 
 **Huanjian Zhou**, Masashi Sugiyama
 
