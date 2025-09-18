@@ -71,7 +71,7 @@ July 7, 2025: John Hopcroft Center Lecture Series, Shanghai Jiao Tong University
 September 3, 2025: The 25th Forum on Information Technology, Hokkaido, Japan
 
 #  Service
-Conference reviewer: ICML(2025), NeurIPS(2024, 2025), ICLR(2025), ESA (2025), AISTATS (2025).
+Conference reviewer: ICML(2025), NeurIPS(2024, 2025), ICLR(2025, 2026), ESA (2025), AISTATS (2025, 2026).
 
 
 
