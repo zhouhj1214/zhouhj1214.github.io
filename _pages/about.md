@@ -30,27 +30,27 @@ Research Interests: the complexity of sampling, submodular optimization.
 
 6. The adaptive complexity of minimizing relative fisher information, **NeurIPS** 2025.
 
-**Huanjian Zhou**, Masashi Sugiyama
+   **Huanjian Zhou**, Masashi Sugiyama
 
 5. [The Adaptive Complexity of Finding a Stationary Point](https://www.arxiv.org/abs/2505.09045), **COLT** 2025. 
 
-**Huanjian Zhou**, Andi Han, Akiko Takeda, Masashi Sugiyama
+   **Huanjian Zhou**, Andi Han, Akiko Takeda, Masashi Sugiyama
 
 4. [Parallel Simulation for Log-concave Sampling and Score-based Diffusion Models](https://openreview.net/forum?id=qtuxDy2qEB&noteId=Q3HrXoYt2u), **ICML** 2025, <font color='red'>Spotlight (Top 2.6%)</font>.
 
-**Huanjian Zhou**, Masashi Sugiyama
+   **Huanjian Zhou**, Masashi Sugiyama
 
 3. [The adaptive complexity of parallelized log-concave sampling](https://openreview.net/forum?id=EeqlkPpaV8), **ICLR** 2025.
 
-**Huanjian Zhou**, Baoxiang Wang, Masashi Sugiyama
+   **Huanjian Zhou**, Baoxiang Wang, Masashi Sugiyama
 
 2. [Improved Approximation Algorithms for k-Submodular Maximization via Multilinear Extension](https://openreview.net/forum?id=EPHsIa0Ytg), **ICLR** 2025,  <font color='red'>Spotlight (Top 5.1%)</font>.
 
-**Huanjian Zhou**, Lingxiao Huang, Baoxiang Wang
+   **Huanjian Zhou**, Lingxiao Huang, Baoxiang Wang
 
 1. [Efficient Submodular Optimization under Noise: Local Search is Robust](https://proceedings.neurips.cc/paper_files/paper/2022/hash/a774503daed55eb53c634847ae071ec7-Abstract-Conference.html), **NeurIPS** 2022.
 
-Lingxiao Huang, Yuyi Wang, Chunxue Yang, **Huanjian Zhou**, (alphabetical order)
+   Lingxiao Huang, Yuyi Wang, Chunxue Yang, **Huanjian Zhou**, (alphabetical order)
 
 # News
 
