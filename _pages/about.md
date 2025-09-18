@@ -28,6 +28,10 @@ Research Interests: the complexity of sampling, submodular optimization.
 
 #  Publications 
 
+The adaptive complexity of minimizing relative fisher information, **NeurIPS** 2025.
+
+**Huanjian Zhou**, Masashi Sugiyama
+
 [The Adaptive Complexity of Finding a Stationary Point](https://www.arxiv.org/abs/2505.09045), **COLT** 2025. 
 
 **Huanjian Zhou**, Andi Han, Akiko Takeda, Masashi Sugiyama
@@ -58,6 +62,7 @@ Lingxiao Huang, Yuyi Wang, Chunxue Yang, **Huanjian Zhou**, (alphabetical order)
 - *2021-2026* World-leading Innovative Graduate Study Program in University of Tokyo.
 - *2023-2024* AIセンター融合研究促進費, 2,000,000jpy.
 - *2024-2025* AIセンター融合研究促進費, 1,100,000jpy.
+- *2025-2026* AIセンター融合研究促進費, 1,000,000jpy.
 
 # Invited talks
 
