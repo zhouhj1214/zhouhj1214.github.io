@@ -23,7 +23,7 @@ I am a final year PhD student at UTokyo where I am very fortunate to be advised 
 
 I got my B.S. from Zhejiang University with major in Statistics.
 
-Research Interests: the complexity of sampling, submodular optimization.
+Research Interests: the complexity of sampling and optimization.
 
 
 #  Publications 
