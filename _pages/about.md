@@ -28,7 +28,7 @@ Research Interests: the complexity of sampling, submodular optimization.
 
 #  Publications 
 
-1. The adaptive complexity of minimizing relative fisher information, **NeurIPS** 2025.
+1. [The Adaptive Complexity of Minimizing Relative Fisher Information](https://openreview.net/forum?id=UQjhremICx), **NeurIPS** 2025.
 
    **Huanjian Zhou**, Masashi Sugiyama
 
