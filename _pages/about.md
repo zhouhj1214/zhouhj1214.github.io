@@ -40,15 +40,11 @@ Research Interests: the complexity of sampling, submodular optimization.
 
    **Huanjian Zhou**, Masashi Sugiyama
 
-4. [The adaptive complexity of parallelized log-concave sampling](https://openreview.net/forum?id=EeqlkPpaV8), **ICLR** 2025.
-
-   **Huanjian Zhou**, Baoxiang Wang, Masashi Sugiyama
-
-5. [Improved Approximation Algorithms for k-Submodular Maximization via Multilinear Extension](https://openreview.net/forum?id=EPHsIa0Ytg), **ICLR** 2025,  <font color='red'>Spotlight (Top 5.1%)</font>.
+4. [Improved Approximation Algorithms for k-Submodular Maximization via Multilinear Extension](https://openreview.net/forum?id=EPHsIa0Ytg), **ICLR** 2025,  <font color='red'>Spotlight (Top 5.1%)</font>.
 
    **Huanjian Zhou**, Lingxiao Huang, Baoxiang Wang
 
-6. [Efficient Submodular Optimization under Noise: Local Search is Robust](https://proceedings.neurips.cc/paper_files/paper/2022/hash/a774503daed55eb53c634847ae071ec7-Abstract-Conference.html), **NeurIPS** 2022.
+5. [Efficient Submodular Optimization under Noise: Local Search is Robust](https://proceedings.neurips.cc/paper_files/paper/2022/hash/a774503daed55eb53c634847ae071ec7-Abstract-Conference.html), **NeurIPS** 2022.
 
    Lingxiao Huang, Yuyi Wang, Chunxue Yang, **Huanjian Zhou**, (alphabetical order)
 
