@@ -19,9 +19,7 @@ redirect_from:
 
 #  Welcome!
 
-I am a final year PhD student at UTokyo where I am very fortunate to be advised by [Masashi Sugiyama](http://www.ms.k.u-tokyo.ac.jp/sugi/). I am also a Research Part-time Worker at [RIKEN Center for Advanced Intelligence Project](https://www.riken.jp/en/research/labs/aip/index.html).
-
-I got my B.S. from Zhejiang University with major in Statistics.
+I am a postdoctoral researcher working under the supervision of [Taiji Suzuki](https://ibis.t.u-tokyo.ac.jp/suzuki/). I obtained my Ph.D. from the University of Tokyo, where I was fortunate to be advised by [Masashi Sugiyama](http://www.ms.k.u-tokyo.ac.jp/sugi/).  I got my B.S. from Zhejiang University with major in Statistics.
 
 Research Interests: the complexity of sampling and optimization.
 
@@ -48,10 +46,6 @@ Research Interests: the complexity of sampling and optimization.
 
    Lingxiao Huang, Yuyi Wang, Chunxue Yang, **Huanjian Zhou**, (alphabetical order)
 
-# News
-
-✈️ Visiting Prof. [Sinho Chewi](https://chewisinho.github.io/) at Yale University during May and June 2025.
-
 
 #  Grants and Fellowships
 
@@ -62,12 +56,18 @@ Research Interests: the complexity of sampling and optimization.
 
 # Invited talks
 
-July 7, 2025: John Hopcroft Center Lecture Series, Shanghai Jiao Tong University, (online)
+May 2026: AIVP, RIKEN, A*STAR & NTU joint Workshop, Singapore
 
-September 3, 2025: The 25th Forum on Information Technology, Hokkaido, Japan
+February 2026: UTokyo Joint Seminar on ML Theory Information, Tokyo, Japan 
+
+November 2025: Theoretical Computer Science Seminar, Nanjing, China 
+
+July, 2025: John Hopcroft Center Lecture Series, Shanghai Jiao Tong University, (online)
+
+September, 2025: The 25th Forum on Information Technology, Hokkaido, Japan
 
 #  Service
-Conference reviewer: ICML(2025), NeurIPS(2024, 2025), ICLR(2025, 2026), ESA (2025), AISTATS (2025, 2026).
+Conference reviewer: ICML(2025), NeurIPS(2024, 2025, 2026), ICLR(2025, 2026), ESA (2025), AISTATS (2025, 2026).
 
 
 
