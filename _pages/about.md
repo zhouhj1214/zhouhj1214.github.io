@@ -29,45 +29,45 @@ I visited Sinho Chewi in May–June 2025 and Yitong Yin in November 2025.
 
 #  Publications 
 
-10. [On the Complexity of Finding Stationary Points of p-th Order Holder Smooth Functions in One Dimension](https://arxiv.org/pdf/2610.16295)
+[On the Complexity of Finding Stationary Points of p-th Order Holder Smooth Functions in One Dimension](https://arxiv.org/pdf/2610.16295)
 
-    **Huanjian Zhou**, Taiji Suzuki
+**Huanjian Zhou**, Taiji Suzuki
+    
+[Finding stationary points under higher-order smoothness: Trapping algorithms and first-order lower bounds](https://arxiv.org/pdf/2610.02791)
 
-9. [Finding stationary points under higher-order smoothness: Trapping algorithms and first-order lower bounds](https://arxiv.org/pdf/2610.02791)
+**Huanjian Zhou**, Masashi Sugiyama, and Taiji Suzuki
 
-   **Huanjian Zhou**, Masashi Sugiyama, and Taiji Suzuki
-
-8. [On Complexity of Gaussian Sampling](https://arxiv.org/pdf/2610.20492)
+[On Complexity of Gaussian Sampling](https://arxiv.org/pdf/2610.20492)
    
-   **Huanjian Zhou**, Taiji Suzuki
+**Huanjian Zhou**, Taiji Suzuki
 
-7. [Accelerating Discrete Diffusion Models with Parallel-In-Time Sampling](https://arxiv.org/pdf/2607.00773)
+[Accelerating Discrete Diffusion Models with Parallel-In-Time Sampling](https://arxiv.org/pdf/2607.00773)
 
-   Yu Yao, **Huanjian Zhou**, Andi Han, Wei Huang, Masashi Sugiyama
+Yu Yao, **Huanjian Zhou**, Andi Han, Wei Huang, Masashi Sugiyama
 
-6. [Parallel Computation Algorithms and Convergence Guarantees for Mean-Field Langevin Dynamics](https://openreview.net/forum?id=L2cmR58g9Y) **NeurIPS** 2026.
+[Parallel Computation Algorithms and Convergence Guarantees for Mean-Field Langevin Dynamics](https://openreview.net/forum?id=L2cmR58g9Y) **NeurIPS** 2026.
 
-   Yoshihito Okamoto, **Huanjian Zhou**, Taiji Suzuki 
+Yoshihito Okamoto, **Huanjian Zhou**, Taiji Suzuki 
 
-5. [The Adaptive Complexity of Minimizing Relative Fisher Information](https://openreview.net/forum?id=UQjhremICx), **NeurIPS** 2025.
+[The Adaptive Complexity of Minimizing Relative Fisher Information](https://openreview.net/forum?id=UQjhremICx), **NeurIPS** 2025.
 
-   **Huanjian Zhou**, Masashi Sugiyama
+**Huanjian Zhou**, Masashi Sugiyama
 
-4. [The Adaptive Complexity of Finding a Stationary Point](https://www.arxiv.org/abs/2505.09045), **COLT** 2025. 
+[The Adaptive Complexity of Finding a Stationary Point](https://www.arxiv.org/abs/2505.09045), **COLT** 2025. 
 
-   **Huanjian Zhou**, Andi Han, Akiko Takeda, Masashi Sugiyama
+**Huanjian Zhou**, Andi Han, Akiko Takeda, Masashi Sugiyama
 
-3. [Parallel Simulation for Log-concave Sampling and Score-based Diffusion Models](https://openreview.net/forum?id=qtuxDy2qEB&noteId=Q3HrXoYt2u), **ICML** 2025, <font color='red'>Spotlight (Top 2.6%)</font>.
+[Parallel Simulation for Log-concave Sampling and Score-based Diffusion Models](https://openreview.net/forum?id=qtuxDy2qEB&noteId=Q3HrXoYt2u), **ICML** 2025, <font color='red'>Spotlight (Top 2.6%)</font>.
 
-   **Huanjian Zhou**, Masashi Sugiyama
+**Huanjian Zhou**, Masashi Sugiyama
 
-2. [Improved Approximation Algorithms for k-Submodular Maximization via Multilinear Extension](https://openreview.net/forum?id=EPHsIa0Ytg), **ICLR** 2025,  <font color='red'>Spotlight (Top 5.1%)</font>.
+[Improved Approximation Algorithms for k-Submodular Maximization via Multilinear Extension](https://openreview.net/forum?id=EPHsIa0Ytg), **ICLR** 2025,  <font color='red'>Spotlight (Top 5.1%)</font>.
 
-   **Huanjian Zhou**, Lingxiao Huang, Baoxiang Wang
+**Huanjian Zhou**, Lingxiao Huang, Baoxiang Wang
 
-1. [Efficient Submodular Optimization under Noise: Local Search is Robust](https://proceedings.neurips.cc/paper_files/paper/2022/hash/a774503daed55eb53c634847ae071ec7-Abstract-Conference.html), **NeurIPS** 2022.
+[Efficient Submodular Optimization under Noise: Local Search is Robust](https://proceedings.neurips.cc/paper_files/paper/2022/hash/a774503daed55eb53c634847ae071ec7-Abstract-Conference.html), **NeurIPS** 2022.
 
-   Lingxiao Huang, Yuyi Wang, Chunxue Yang, **Huanjian Zhou**, (alphabetical order)
+Lingxiao Huang, Yuyi Wang, Chunxue Yang, **Huanjian Zhou**, (alphabetical order)
 
 
 #  Grants and Fellowships
