@@ -31,7 +31,7 @@ I visited Sinho Chewi in May–June 2025 and Yitong Yin in November 2025.
 
 10. [On the Complexity of Finding Stationary Points of p-th Order Holder Smooth Functions in One Dimension](https://arxiv.org/pdf/2610.16295)
 
-   **Huanjian Zhou**, Taiji Suzuki
+    **Huanjian Zhou**, Taiji Suzuki
 
 9. [Finding stationary points under higher-order smoothness: Trapping algorithms and first-order lower bounds](https://arxiv.org/pdf/2610.02791)
 
