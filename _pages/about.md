@@ -24,7 +24,7 @@ I am a postdoctoral researcher working under the supervision of [Taiji Suzuki](h
 Research Interests: the complexity of sampling and optimization.
 
 # Past Visits
-I visited Sinho Chewi in May–June 2025 and Yitong Yin in November 2025.
+I visited Prof. Sinho Chewi in May–June 2025 and Prof. Yitong Yin in November 2025.
 
 
 #  Publications 
