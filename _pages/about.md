@@ -29,6 +29,10 @@ I visited Prof. Sinho Chewi in May–June 2025 and Prof. Yitong Yin in November 
 
 #  Publications 
 
+[Towards the Query Complexity of Sampling under Strong Log-Concavity and Log-Sobolev Inequalities](https://arxiv.org/abs/2611.05813)
+
+**Huanjian Zhou**, Taiji Suzuki
+
 [On the Complexity of Finding Stationary Points of p-th Order Holder Smooth Functions in One Dimension](https://arxiv.org/pdf/2610.16295)
 
 **Huanjian Zhou**, Taiji Suzuki
