@@ -57,6 +57,10 @@ We are building [Samplinglib](https://dakebu.github.io/Automization-Sampling-Opt
 
 Yu Yao, **Huanjian Zhou**, Andi Han, Wei Huang, Masashi Sugiyama
 
+[An Automated Theorem Proving System and Visualized Lean Library for Sampling Theory, Optimisation and Geometry](https://openreview.net/forum?id=UkKpNtVED2), **NeurIPS** 2026 Workshop MATH-AI.
+
+Dake Bu, Ji Cheng, **Huanjian Zhou**, Andi Han, Zonghao Chen, Hau-San Wong, Qingfu Zhang, Atsushi Nitanda
+
 [Parallel Computation Algorithms and Convergence Guarantees for Mean-Field Langevin Dynamics](https://openreview.net/forum?id=L2cmR58g9Y) **NeurIPS** 2026.
 
 Yoshihito Okamoto, **Huanjian Zhou**, Taiji Suzuki 
