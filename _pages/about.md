@@ -23,6 +23,13 @@ I am a postdoctoral researcher working under the supervision of [Taiji Suzuki](h
 
 Research Interests: the complexity of sampling and optimization.
 
+# Lean Library: Samplinglib
+
+We are building [Samplinglib](https://dakebu.github.io/Automization-Sampling-Optimisation-Geometry-Lib/), an open-source Lean 4 library for sampling. Welcome to use it and to contribute! 
+
+[Website](https://dakebu.github.io/Automization-Sampling-Optimisation-Geometry-Lib/) · [GitHub](https://github.com/DakeBU/Automization-Sampling-Optimisation-Geometry-Lib) · [Paper](https://openreview.net/forum?id=UkKpNtVED2)
+
+
 # Past Visits
 I visited Prof. [Sinho Chewi](https://chewisinho.github.io/) in May–June 2025 and Prof. [Yitong Yin](https://tcs.nju.edu.cn/yinyt/Yitong_Yin_homepage.html) in November 2025.
 
