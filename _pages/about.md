@@ -37,7 +37,7 @@ We are building [Samplinglib](https://dakebu.github.io/Automization-Sampling-Opt
 
 #  Publications 
 
-[Towards the Query Complexity of Sampling under Strong Log-Concavity and Log-Sobolev Inequalities](https://arxiv.org/abs/2611.05813)
+[Towards the Query Complexity of Sampling under Strong Log-Concavity and Log-Sobolev Inequalities](https://arxiv.org/abs/2611.05813) [Slides](https://drive.google.com/file/d/1_rhH_O2arijK06XKJWue8wW3SBKhtvFM/view?usp=sharing)
 
 **Huanjian Zhou**, Taiji Suzuki
 
