@@ -41,7 +41,7 @@ I visited Prof. [Sinho Chewi](https://chewisinho.github.io/) in May–June 2025 
 
 **Huanjian Zhou**, Masashi Sugiyama, and Taiji Suzuki
 
-[On Complexity of Gaussian Sampling](https://arxiv.org/pdf/2610.20492) [Slides](https://drive.google.com/file/d/1VYa3pgwdcCbuC3C-o-2mz4WkLBWDRQrp/view?usp=sharing) 
+[On Complexity of Gaussian Sampling](https://arxiv.org/pdf/2610.20492) [[Slides]](https://drive.google.com/file/d/1VYa3pgwdcCbuC3C-o-2mz4WkLBWDRQrp/view?usp=sharing) 
    
 **Huanjian Zhou**, Taiji Suzuki
 
